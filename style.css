@@ -5,3 +5,8 @@ body {
 h1, p, ul, a {
  color: #FFFFFF; 
 }
+
+h1 {
+ font-weight: bold;
+ font-style: italic;
+}
